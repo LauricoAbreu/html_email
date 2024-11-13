@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>E-mail para uma listagem de postagens </title>
+</head>
+<body style="background-color: #DCDCDC;">
+
+    <center>
+        <table width="600" cellspacing="0" cellpadding="0">
+            <thead>
+                <tr bgcolor="#1c54a8">
+                    <th style="padding-top: 24px; padding-bottom: 24px; color: #fff; font-size: 20px; font-family: sans-serif;">
+                        Listagem de Ofertas!
+                    </th>
+                </tr>
+                <tr>
+                    <td style="padding-top: 16px;">
+                        <b>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Accusantium nemo rem, corrupti, sunt ullam molestias perferendis modi ipsam a, deserunt id aliquam nostrum!</b>
+                        <hr style="width: 100%; border: 1px solid #000; margin-top: 24px; margin-bottom: 32px;">
+                        <center>
+                            <span style="font-size: 24px; display: inline-block; color: #1c54a8; border: solid 3px; font-family: sans-serif; padding: 8px 16px; border-radius: 8px; ">
+                                <b>EBAC_S_10</b>
+                            </span>
+                            <span style="font-size: 12px; padding-top: 8px; font-family: sans-serif; display: block;">
+                                Valido ate 20/12/2024
+                            </span>
+                        </center>
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="2" style="padding-left: 40px; padding-right: 40px; padding-top: 32px;">
+                        <div style="padding-bottom: 24px; display: inline-block; max-width: 127px; width: 100%;">
+                            <a href="#" style="text-decoration: none; color: #000;">
+                                <img src="https://servidor-imagens-gules.vercel.app/smartphone.webp" alt="smartphone" style="width: 112px; height: 112px;">
+                            <div style="font-family: sans-serif; font-size: 12px;">
+                                <h3 style="margin: 0;">Smastphone</h3>
+                                <span style="text-decoration: line-through; color: #504b4b;">
+                                    de 1.699,00
+                                </span>
+                                <p style="margin: 0;">
+                                    Por R$ 1.499,00
+                                </p>
+                            </div>
+                            </a>
+                        </div>
+                        <div style="padding-bottom: 24px; display: inline-block; max-width: 127px; width: 100%;">
+                            <a href="#" style="text-decoration: none; color: #000;">
+                                <img src="https://servidor-imagens-gules.vercel.app/smartphone.webp" alt="smartphone" style="width: 112px; height: 112px;">
+                            <div style="font-family: sans-serif; font-size: 12px;">
+                                <h3 style="margin: 0;">Smastphone</h3>
+                                <span style="text-decoration: line-through; color: #504b4b;">
+                                    de 1.699,00
+                                </span>
+                                <p style="margin: 0;">
+                                    Por R$ 1.499,00
+                                </p>
+                            </div>
+                            </a>
+                        </div>
+                        <div style="padding-bottom: 24px; display: inline-block; max-width: 127px; width: 100%;">
+                            <a href="#" style="text-decoration: none; color: #000;">
+                                <img src="https://servidor-imagens-gules.vercel.app/smartphone.webp" alt="smartphone" style="width: 112px; height: 112px;">
+                            <div style="font-family: sans-serif; font-size: 12px;">
+                                <h3 style="margin: 0;">Smastphone</h3>
+                                <span style="text-decoration: line-through; color: #504b4b;">
+                                    de 1.699,00
+                                </span>
+                                <p style="margin: 0;">
+                                    Por R$ 1.499,00
+                                </p>
+                            </div>
+                            </a>
+                        </div>
+                        <div style="padding-bottom: 24px; display: inline-block; max-width: 127px; width: 100%;">
+                            <a href="#" style="text-decoration: none; color: #000;">
+                                <img src="https://servidor-imagens-gules.vercel.app/smartphone.webp" alt="smartphone" style="width: 112px; height: 112px;">
+                            <div style="font-family: sans-serif; font-size: 12px;">
+                                <h3 style="margin: 0;">Smastphone</h3>
+                                <span style="text-decoration: line-through; color: #504b4b;">
+                                    de 1.699,00
+                                </span>
+                                <p style="margin: 0;">
+                                    Por R$ 1.499,00
+                                </p>
+                            </div>
+                            </a>
+                        </div>
+                        <div style="padding-bottom: 24px; display: inline-block; max-width: 127px; width: 100%;">
+                            <a href="#" style="text-decoration: none; color: #000;">
+                                <img src="https://servidor-imagens-gules.vercel.app/smartphone.webp" alt="smartphone" style="width: 112px; height: 112px;">
+                            <div style="font-family: sans-serif; font-size: 12px;">
+                                <h3 style="margin: 0;">Smastphone</h3>
+                                <span style="text-decoration: line-through; color: #504b4b;">
+                                    de 1.699,00
+                                </span>
+                                <p style="margin: 0;">
+                                    Por R$ 1.499,00
+                                </p>
+                            </div>
+                            </a>
+                        </div>
+                        <div style="padding-bottom: 24px; display: inline-block; max-width: 127px; width: 100%;">
+                            <a href="#" style="text-decoration: none; color: #000;">
+                                <img src="https://servidor-imagens-gules.vercel.app/smartphone.webp" alt="smartphone" style="width: 112px; height: 112px;">
+                            <div style="font-family: sans-serif; font-size: 12px;">
+                                <h3 style="margin: 0;">Smastphone</h3>
+                                <span style="text-decoration: line-through; color: #504b4b;">
+                                    de 1.699,00
+                                </span>
+                                <p style="margin: 0;">
+                                    Por R$ 1.499,00
+                                </p>
+                            </div>
+                            </a>
+                        </div>
+                        <div style="padding-bottom: 24px; display: inline-block; max-width: 127px; width: 100%;">
+                            <a href="#" style="text-decoration: none; color: #000;">
+                                <img src="https://servidor-imagens-gules.vercel.app/smartphone.webp" alt="smartphone" style="width: 112px; height: 112px;">
+                            <div style="font-family: sans-serif; font-size: 12px;">
+                                <h3 style="margin: 0;">Smastphone</h3>
+                                <span style="text-decoration: line-through; color: #504b4b;">
+                                    de 1.699,00
+                                </span>
+                                <p style="margin: 0;">
+                                    Por R$ 1.499,00
+                                </p>
+                            </div>
+                            </a>
+                        </div>
+                        <div style="padding-bottom: 24px; display: inline-block; max-width: 127px; width: 100%;">
+                            <a href="#" style="text-decoration: none; color: #000;">
+                                <img src="https://servidor-imagens-gules.vercel.app/smartphone.webp" alt="smartphone" style="width: 112px; height: 112px;">
+                            <div style="font-family: sans-serif; font-size: 12px;">
+                                <h3 style="margin: 0;">Smastphone</h3>
+                                <span style="text-decoration: line-through; color: #504b4b;">
+                                    de 1.699,00
+                                </span>
+                                <p style="margin: 0;">
+                                    Por R$ 1.499,00
+                                </p>
+                            </div>
+                            </a>
+                        </div>
+                        <div style="padding-bottom: 24px; display: inline-block; max-width: 127px; width: 100%;">
+                            <a href="#" style="text-decoration: none; color: #000;">
+                                <img src="https://servidor-imagens-gules.vercel.app/smartphone.webp" alt="smartphone" style="width: 112px; height: 112px;">
+                            <div style="font-family: sans-serif; font-size: 12px;">
+                                <h3 style="margin: 0;">Smastphone</h3>
+                                <span style="text-decoration: line-through; color: #504b4b;">
+                                    de 1.699,00
+                                </span>
+                                <p style="margin: 0;">
+                                    Por R$ 1.499,00
+                                </p>
+                            </div>
+                            </a>
+                        </div>
+                        <div style="padding-bottom: 24px; display: inline-block; max-width: 127px; width: 100%;">
+                            <a href="#" style="text-decoration: none; color: #000;">
+                                <img src="https://servidor-imagens-gules.vercel.app/smartphone.webp" alt="smartphone" style="width: 112px; height: 112px;">
+                            <div style="font-family: sans-serif; font-size: 12px;">
+                                <h3 style="margin: 0;">Smastphone</h3>
+                                <span style="text-decoration: line-through; color: #504b4b;">
+                                    de 1.699,00
+                                </span>
+                                <p style="margin: 0;">
+                                    Por R$ 1.499,00
+                                </p>
+                            </div>
+                            </a>
+                        </div>
+                        <div style="padding-bottom: 24px; display: inline-block; max-width: 127px; width: 100%;">
+                            <a href="#" style="text-decoration: none; color: #000;">
+                                <img src="https://servidor-imagens-gules.vercel.app/smartphone.webp" alt="smartphone" style="width: 112px; height: 112px;">
+                            <div style="font-family: sans-serif; font-size: 12px;">
+                                <h3 style="margin: 0;">Smastphone</h3>
+                                <span style="text-decoration: line-through; color: #504b4b;">
+                                    de 1.699,00
+                                </span>
+                                <p style="margin: 0;">
+                                    Por R$ 1.499,00
+                                </p>
+                            </div>
+                            </a>
+                        </div>
+                        <div style="padding-bottom: 80px; display: inline-block; max-width: 127px; width: 100%;">
+                            <a href="#" style="text-decoration: none; color: #000;">
+                                <img src="https://servidor-imagens-gules.vercel.app/smartphone.webp" alt="smartphone" style="width: 112px; height: 112px;">
+                            <div style="font-family: sans-serif; font-size: 12px;">
+                                <h3 style="margin: 0;">Smastphone</h3>
+                                <span style="text-decoration: line-through; color: #504b4b;">
+                                    de 1.699,00
+                                </span>
+                                <p style="margin: 0;">
+                                    Por R$ 1.499,00
+                                </p>
+                            </div>
+                            </a>
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="padding-top: 36px; padding-bottom: 36px;">
+                        <center>
+                            <a href="https://facebook.com"><img src="https://servidor-imagens-gules.vercel.app/facebook.png" alt="facebook"></a>
+                            <a href="https://instagram.com"><img src="https://servidor-imagens-gules.vercel.app/instagram.png" alt="instagram"></a>
+                            <a href="https://twitter.com"><img src="https://servidor-imagens-gules.vercel.app/twitter.png" alt="twitter"></a>
+                        </center>
+                    </td>
+                </tr>
+                <table width="600" cellspacing="0" cellpadding="0">
+                    <thead>
+                        <tr bgcolor="#1c54a8">
+                            <th style="padding-top: 24px; color: #fff; padding-bottom: 24px; font-size: 20px; font-family: sans-serif;">
+                                EBACSHOES.COM.BR
+                            </th>
+                        </tr>
+            </thead>
+        </table>
+    </center>
+</body>
+</html>
